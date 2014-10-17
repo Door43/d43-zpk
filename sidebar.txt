@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpk:home|Door43 (zpk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpk|d43-zpk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpk/archive/master.zip|d43-zpk.zip]]
+
+**Recent Changes**
+{{changes>ns = zpk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpk|Ethnologue data]]
+
